@@ -2,8 +2,6 @@
 
 <h3 align="center"> I Have seen great technologies in the past, now creating great technologies for the future</h3>
 
-- 🔭 I’m currently working on a **social, live football meetup app**
-
 
 <p align="left">
 </p>
