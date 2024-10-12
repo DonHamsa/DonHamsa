@@ -4,8 +4,6 @@
 
 <p align="left"></p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs, html,css,vitest,vitem,nextjs,py,figma,aws,postgres,postman,powershell,express,react,ts)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,vitest,vite,nextjs,py,figma,aws,postgres,postman,powershell,express,react,ts)](https://skillicons.dev)
