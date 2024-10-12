@@ -1,8 +1,7 @@
 ![](output.gif)
 
-<h4 align="center">I have seen great technologies in the past, now creating great technologies for the future</h4>
+<h4 align="center">I have seen great technologies in the past, now it is about creating great technologies for the future</h4>
 
-<p align="left"></p>
 
 ### Languages and Tools:
 
