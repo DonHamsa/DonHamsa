@@ -1,6 +1,6 @@
 ![My Profile Picture](/Think-Different.jpg)
 
-<h3 align="center">My philosophy? Simply,  Ruthless Pragmatism </h3><br/>
+<h3 align="center">My philosophy?  Simply,  Ruthless Pragmatism </h3><br/>
 
 
 ### Languages and Tools:
