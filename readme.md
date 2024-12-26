@@ -1,6 +1,6 @@
 ![My Profile Picture](/Think-Different.jpg)
 
-<h3 align="center">I am a man a ruthless pragmatist. </h3><br/>
+<h3 align="center">I am a ruthless pragmatist. </h3><br/>
 
 
 ### Languages and Tools:
