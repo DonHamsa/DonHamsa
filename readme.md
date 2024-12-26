@@ -1,6 +1,6 @@
 ![My Profile Picture](/Think-Different.jpg)
 
-<h3 align="center">I have seen great technologies in the past, now it is about creating great technologies for the future</h3><br/>
+<h3 align="center">A man with ruthless pragmatism. </h3><br/>
 
 
 ### Languages and Tools:
