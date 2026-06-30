@@ -1,6 +1,6 @@
 ![My Profile Picture](/Think-Different.jpg)
 
-<h3 align="center">My philosophy.... Ruthless Pragmatism  
+<h3 align="center">My philosophy : Ruthless Pragmatism  
   <br>
 Favourite Quote - "How well the Cry for Liberty, and the reverse Disposition for the exercise of oppressive Power over others agree -- I humbly think it does not require the Penetration of a Philosopher to determine"
 </h3>
