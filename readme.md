@@ -2,7 +2,7 @@
 
 <h3 align="center">My philosophy : Ruthless Pragmatism  
   <br>
-Favourite Quote - "How well the Cry for Liberty, and the reverse Disposition for the exercise of oppressive Power over others agree -- I humbly think it does not require the Penetration of a Philosopher to determine"
+Favourite Quote - " Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere"
 </h3>
 </h3><br/>
 
