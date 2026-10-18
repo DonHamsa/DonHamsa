@@ -1,10 +1,9 @@
 ![My Profile Picture](/Think-Different.jpg)
 
-<h3 align="center">My philosophy : Ruthless Pragmatism  
-  <br>
-Favourite Quote - " Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere"
+<h3 align="center">
+  I am walking with destiny.
+
 </h3>
-</h3><br/>
 
 
 ### Languages and Tools:
